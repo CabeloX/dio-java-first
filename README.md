@@ -1,2 +1,2 @@
 # dio-java-first
-Repositorio para salvar o cod of course by DIO
+Repository to save cod of Basic Java course
